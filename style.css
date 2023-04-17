@@ -1,8 +1,9 @@
 :root {
   font-size: 62.5%; 
   background-image: url(background.jpg);
-  background-size: auto 100%;
+  background-size: cover;
   background-position: center center;
+  background-repeat: no-repeat;
   --color-font: #ffffff;
 }
 
